@@ -1,0 +1,198 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\Desktop\\Lab3\\Lab3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6BF7B07B-4411-4D95-9E4C-B5AD58D58943}|Lab3.csproj|c:\\users\\asus\\desktop\\lab3\\lab3\\bai6_server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BF7B07B-4411-4D95-9E4C-B5AD58D58943}|Lab3.csproj|solutionrelative:bai6_server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BF7B07B-4411-4D95-9E4C-B5AD58D58943}|Lab3.csproj|c:\\users\\asus\\desktop\\lab3\\lab3\\bai6_client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BF7B07B-4411-4D95-9E4C-B5AD58D58943}|Lab3.csproj|solutionrelative:bai6_client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BF7B07B-4411-4D95-9E4C-B5AD58D58943}|Lab3.csproj|c:\\users\\asus\\desktop\\lab3\\lab3\\bai5_server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BF7B07B-4411-4D95-9E4C-B5AD58D58943}|Lab3.csproj|solutionrelative:bai5_server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BF7B07B-4411-4D95-9E4C-B5AD58D58943}|Lab3.csproj|c:\\users\\asus\\desktop\\lab3\\lab3\\bai5_client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BF7B07B-4411-4D95-9E4C-B5AD58D58943}|Lab3.csproj|solutionrelative:bai5_client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BF7B07B-4411-4D95-9E4C-B5AD58D58943}|Lab3.csproj|c:\\users\\asus\\desktop\\lab3\\lab3\\bai5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BF7B07B-4411-4D95-9E4C-B5AD58D58943}|Lab3.csproj|solutionrelative:bai5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BF7B07B-4411-4D95-9E4C-B5AD58D58943}|Lab3.csproj|c:\\users\\asus\\desktop\\lab3\\lab3\\bai4_server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BF7B07B-4411-4D95-9E4C-B5AD58D58943}|Lab3.csproj|solutionrelative:bai4_server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BF7B07B-4411-4D95-9E4C-B5AD58D58943}|Lab3.csproj|c:\\users\\asus\\desktop\\lab3\\lab3\\bai4_client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BF7B07B-4411-4D95-9E4C-B5AD58D58943}|Lab3.csproj|solutionrelative:bai4_client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BF7B07B-4411-4D95-9E4C-B5AD58D58943}|Lab3.csproj|c:\\users\\asus\\desktop\\lab3\\lab3\\bai3_tcp_client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BF7B07B-4411-4D95-9E4C-B5AD58D58943}|Lab3.csproj|solutionrelative:bai3_tcp_client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BF7B07B-4411-4D95-9E4C-B5AD58D58943}|Lab3.csproj|c:\\users\\asus\\desktop\\lab3\\lab3\\bai3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BF7B07B-4411-4D95-9E4C-B5AD58D58943}|Lab3.csproj|solutionrelative:bai3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BF7B07B-4411-4D95-9E4C-B5AD58D58943}|Lab3.csproj|c:\\users\\asus\\desktop\\lab3\\lab3\\bai2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BF7B07B-4411-4D95-9E4C-B5AD58D58943}|Lab3.csproj|solutionrelative:bai2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Bai6_Server.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Lab3\\Lab3\\Bai6_Server.cs",
+              "RelativeDocumentMoniker": "Bai6_Server.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Lab3\\Lab3\\Bai6_Server.cs",
+              "RelativeToolTip": "Bai6_Server.cs",
+              "ViewState": "AQIAAEkAAAAAAAAAAAAkwEQAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T20:07:29.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Bai6_Client.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Lab3\\Lab3\\Bai6_Client.cs",
+              "RelativeDocumentMoniker": "Bai6_Client.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Lab3\\Lab3\\Bai6_Client.cs",
+              "RelativeToolTip": "Bai6_Client.cs",
+              "ViewState": "AQIAAFoAAAAAAAAAAAAowGAAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T20:05:06.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Bai5_Server.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Lab3\\Lab3\\Bai5_Server.cs",
+              "RelativeDocumentMoniker": "Bai5_Server.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Lab3\\Lab3\\Bai5_Server.cs",
+              "RelativeToolTip": "Bai5_Server.cs",
+              "ViewState": "AQIAAGUAAAAAAAAAAAAiwHUAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T20:00:20.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Bai5_Client.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Lab3\\Lab3\\Bai5_Client.cs",
+              "RelativeDocumentMoniker": "Bai5_Client.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Lab3\\Lab3\\Bai5_Client.cs",
+              "RelativeToolTip": "Bai5_Client.cs",
+              "ViewState": "AQIAAGQAAAAAAAAAAAAiwEAAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T19:57:34.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Bai5.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Lab3\\Lab3\\Bai5.cs",
+              "RelativeDocumentMoniker": "Bai5.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Lab3\\Lab3\\Bai5.cs",
+              "RelativeToolTip": "Bai5.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T19:57:14.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Bai4_Server.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Lab3\\Lab3\\Bai4_Server.cs",
+              "RelativeDocumentMoniker": "Bai4_Server.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Lab3\\Lab3\\Bai4_Server.cs",
+              "RelativeToolTip": "Bai4_Server.cs",
+              "ViewState": "AQIAAFgAAAAAAAAAAAAkwGoAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T19:54:04.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Bai4_Client.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Lab3\\Lab3\\Bai4_Client.cs",
+              "RelativeDocumentMoniker": "Bai4_Client.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Lab3\\Lab3\\Bai4_Client.cs",
+              "RelativeToolTip": "Bai4_Client.cs",
+              "ViewState": "AQIAAFkAAAAAAAAAAAAswGQAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T19:48:17.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Bai3_TCP_Client.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Lab3\\Lab3\\Bai3_TCP_Client.cs",
+              "RelativeDocumentMoniker": "Bai3_TCP_Client.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Lab3\\Lab3\\Bai3_TCP_Client.cs",
+              "RelativeToolTip": "Bai3_TCP_Client.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAkwDUAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T19:39:52.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Bai3.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Lab3\\Lab3\\Bai3.cs",
+              "RelativeDocumentMoniker": "Bai3.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Lab3\\Lab3\\Bai3.cs",
+              "RelativeToolTip": "Bai3.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAuwBAAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T19:39:30.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Bai2.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Lab3\\Lab3\\Bai2.cs",
+              "RelativeDocumentMoniker": "Bai2.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Lab3\\Lab3\\Bai2.cs",
+              "RelativeToolTip": "Bai2.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAtwBIAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T19:39:02.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
